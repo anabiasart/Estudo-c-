@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\bin\Debug\net10.0\Remover Caract.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\bin\Debug\net10.0\Remover Caract.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\bin\Debug\net10.0\Remover Caract.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\bin\Debug\net10.0\Remover Caract.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\bin\Debug\net10.0\Remover Caract.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\refint\Remover Caract.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\Remover Caract.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Remover Caract\obj\Debug\net10.0\ref\Remover Caract.dll
