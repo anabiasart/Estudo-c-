@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\bin\Debug\net10.0\ausente.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\bin\Debug\net10.0\ausente.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\bin\Debug\net10.0\ausente.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\bin\Debug\net10.0\ausente.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\bin\Debug\net10.0\ausente.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\refint\ausente.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ausente.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ausente\obj\Debug\net10.0\ref\ausente.dll
