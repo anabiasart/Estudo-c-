@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\bin\Debug\net10.0\tripla.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\bin\Debug\net10.0\tripla.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\bin\Debug\net10.0\tripla.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\bin\Debug\net10.0\tripla.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\bin\Debug\net10.0\tripla.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\refint\tripla.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\tripla.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\tripla\obj\Debug\net10.0\ref\tripla.dll

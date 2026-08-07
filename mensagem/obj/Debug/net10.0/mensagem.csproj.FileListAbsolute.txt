@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\bin\Debug\net10.0\mensagem.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\bin\Debug\net10.0\mensagem.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\bin\Debug\net10.0\mensagem.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\bin\Debug\net10.0\mensagem.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\bin\Debug\net10.0\mensagem.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\refint\mensagem.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\mensagem.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\mensagem\obj\Debug\net10.0\ref\mensagem.dll

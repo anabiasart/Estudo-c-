@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\bin\Debug\net10.0\loop linhas.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\bin\Debug\net10.0\loop linhas.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\bin\Debug\net10.0\loop linhas.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\bin\Debug\net10.0\loop linhas.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\bin\Debug\net10.0\loop linhas.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\refint\loop linhas.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\loop linhas.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\loop linhas\obj\Debug\net10.0\ref\loop linhas.dll

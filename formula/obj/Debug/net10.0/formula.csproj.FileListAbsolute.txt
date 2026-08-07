@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\bin\Debug\net10.0\formula.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\bin\Debug\net10.0\formula.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\bin\Debug\net10.0\formula.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\bin\Debug\net10.0\formula.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\bin\Debug\net10.0\formula.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\refint\formula.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\formula.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\formula\obj\Debug\net10.0\ref\formula.dll

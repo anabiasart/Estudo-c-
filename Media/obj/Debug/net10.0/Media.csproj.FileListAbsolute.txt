@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\bin\Debug\net10.0\Media.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\bin\Debug\net10.0\Media.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\bin\Debug\net10.0\Media.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\bin\Debug\net10.0\Media.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\bin\Debug\net10.0\Media.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\refint\Media.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\Media.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Media\obj\Debug\net10.0\ref\Media.dll

@@ -1,0 +1,14 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\bin\Debug\net10.0\retangulo.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\bin\Debug\net10.0\retangulo.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\bin\Debug\net10.0\retangulo.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\bin\Debug\net10.0\retangulo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\bin\Debug\net10.0\retangulo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\refint\retangulo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\retangulo.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\retangulo\obj\Debug\net10.0\ref\retangulo.dll
