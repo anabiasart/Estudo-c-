@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\bin\Debug\net10.0\trocaCaracter.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\bin\Debug\net10.0\trocaCaracter.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\bin\Debug\net10.0\trocaCaracter.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\bin\Debug\net10.0\trocaCaracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\bin\Debug\net10.0\trocaCaracter.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\refint\trocaCaracter.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\trocaCaracter.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\trocaCaracter\obj\Debug\net10.0\ref\trocaCaracter.dll
