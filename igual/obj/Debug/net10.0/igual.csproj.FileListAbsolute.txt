@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\bin\Debug\net10.0\igual.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\bin\Debug\net10.0\igual.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\bin\Debug\net10.0\igual.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\bin\Debug\net10.0\igual.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\bin\Debug\net10.0\igual.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\refint\igual.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\igual.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\igual\obj\Debug\net10.0\ref\igual.dll
