@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\bin\Debug\net10.0\Verificar num.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\bin\Debug\net10.0\Verificar num.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\bin\Debug\net10.0\Verificar num.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\bin\Debug\net10.0\Verificar num.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\bin\Debug\net10.0\Verificar num.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\refint\Verificar num.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\Verificar num.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Verificar num\obj\Debug\net10.0\ref\Verificar num.dll
