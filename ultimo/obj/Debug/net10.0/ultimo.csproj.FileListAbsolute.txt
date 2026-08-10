@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\bin\Debug\net10.0\ultimo.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\bin\Debug\net10.0\ultimo.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\bin\Debug\net10.0\ultimo.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\bin\Debug\net10.0\ultimo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\bin\Debug\net10.0\ultimo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\refint\ultimo.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ultimo.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\ultimo\obj\Debug\net10.0\ref\ultimo.dll
