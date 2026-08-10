@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\bin\Debug\net10.0\frente&verso.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\bin\Debug\net10.0\frente&verso.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\bin\Debug\net10.0\frente&verso.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\bin\Debug\net10.0\frente&verso.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\bin\Debug\net10.0\frente&verso.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\refint\frente&verso.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\frente&verso.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\frente&verso\obj\Debug\net10.0\ref\frente&verso.dll
