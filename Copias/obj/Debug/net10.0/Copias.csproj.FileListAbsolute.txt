@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\bin\Debug\net10.0\Copias.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\bin\Debug\net10.0\Copias.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\bin\Debug\net10.0\Copias.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\bin\Debug\net10.0\Copias.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\bin\Debug\net10.0\Copias.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\refint\Copias.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\Copias.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\Copias\obj\Debug\net10.0\ref\Copias.dll

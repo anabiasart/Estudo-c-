@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Remover Caract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05960ebdce6be76787227f5e17c14cbc7af81d2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc5b271d64e5fe733e823cceff067878b5b6d810")]
 [assembly: System.Reflection.AssemblyProductAttribute("Remover Caract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Remover Caract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
