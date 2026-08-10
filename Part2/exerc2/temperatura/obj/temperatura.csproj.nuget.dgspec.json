@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\comeco\\comeco.csproj": {}
+    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\comeco\\comeco.csproj": {
+    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\comeco\\comeco.csproj",
-        "projectName": "comeco",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\comeco\\comeco.csproj",
+        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj",
+        "projectName": "temperatura",
+        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\comeco\\obj\\",
+        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
