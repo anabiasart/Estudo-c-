@@ -1,0 +1,15 @@
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\bin\Debug\net10.0\comeco.exe
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\bin\Debug\net10.0\comeco.deps.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\bin\Debug\net10.0\comeco.runtimeconfig.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\bin\Debug\net10.0\comeco.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\bin\Debug\net10.0\comeco.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.AssemblyInfoInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.AssemblyInfo.cs
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.csproj.CoreCompileInputs.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.sourcelink.json
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\refint\comeco.dll
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.pdb
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\comeco.genruntimeconfig.cache
+C:\Users\wconect-financeiro\OneDrive\Área de Trabalho\Estudoc#\comeco\obj\Debug\net10.0\ref\comeco.dll
