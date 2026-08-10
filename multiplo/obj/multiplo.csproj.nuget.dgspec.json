@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj": {}
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\multiplo\\multiplo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj": {
+    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\multiplo\\multiplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj",
-        "projectName": "ultimo",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj",
+        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\multiplo\\multiplo.csproj",
+        "projectName": "multiplo",
+        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\multiplo\\multiplo.csproj",
         "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\obj\\",
+        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\multiplo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
