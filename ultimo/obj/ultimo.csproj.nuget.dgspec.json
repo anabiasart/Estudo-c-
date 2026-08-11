@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj": {}
+    "c:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\ultimo\\ultimo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj": {
+    "c:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\ultimo\\ultimo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj",
+        "projectUniqueName": "c:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\ultimo\\ultimo.csproj",
         "projectName": "ultimo",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\ultimo.csproj",
-        "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\ultimo\\obj\\",
+        "projectPath": "c:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\ultimo\\ultimo.csproj",
+        "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\ultimo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wconect-financeiro\\.nuget\\packages\\": {}
+    "C:\\Users\\akira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Verificar num\\Verificar num.csproj",
+      "projectUniqueName": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Verificar num\\Verificar num.csproj",
       "projectName": "Verificar num",
-      "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Verificar num\\Verificar num.csproj",
-      "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Verificar num\\obj\\",
+      "projectPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Verificar num\\Verificar num.csproj",
+      "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Verificar num\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj": {}
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Part2\\exerc2\\temperatura\\temperatura.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj": {
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Part2\\exerc2\\temperatura\\temperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj",
+        "projectUniqueName": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Part2\\exerc2\\temperatura\\temperatura.csproj",
         "projectName": "temperatura",
-        "projectPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\temperatura.csproj",
-        "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Part2\\exerc2\\temperatura\\obj\\",
+        "projectPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Part2\\exerc2\\temperatura\\temperatura.csproj",
+        "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Part2\\exerc2\\temperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wconect-financeiro\\.nuget\\packages\\": {}
+    "C:\\Users\\akira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Remover Caract\\Remover Caract.csproj",
+      "projectUniqueName": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Remover Caract\\Remover Caract.csproj",
       "projectName": "Remover Caract",
-      "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Remover Caract\\Remover Caract.csproj",
-      "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\Remover Caract\\obj\\",
+      "projectPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Remover Caract\\Remover Caract.csproj",
+      "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\Remover Caract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

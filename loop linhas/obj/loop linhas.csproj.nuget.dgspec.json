@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\loop linhas\\loop linhas.csproj": {}
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\loop linhas\\loop linhas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\loop linhas\\loop linhas.csproj": {
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\loop linhas\\loop linhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\loop linhas\\loop linhas.csproj",
+        "projectUniqueName": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\loop linhas\\loop linhas.csproj",
         "projectName": "loop linhas",
-        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\loop linhas\\loop linhas.csproj",
-        "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\loop linhas\\obj\\",
+        "projectPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\loop linhas\\loop linhas.csproj",
+        "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\loop linhas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

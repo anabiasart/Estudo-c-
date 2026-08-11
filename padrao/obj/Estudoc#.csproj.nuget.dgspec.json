@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\padrao\\Estudoc#.csproj": {}
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\padrao\\Estudoc#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\padrao\\Estudoc#.csproj": {
+    "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\padrao\\Estudoc#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\padrao\\Estudoc#.csproj",
+        "projectUniqueName": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\padrao\\Estudoc#.csproj",
         "projectName": "Estudoc#",
-        "projectPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\padrao\\Estudoc#.csproj",
-        "packagesPath": "C:\\Users\\wconect-financeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wconect-financeiro\\OneDrive\\Área de Trabalho\\Estudoc#\\padrao\\obj\\",
+        "projectPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\padrao\\Estudoc#.csproj",
+        "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akira\\Desktop\\Exerc c#\\Estudo-c-\\padrao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wconect-financeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\akira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

@@ -1,0 +1,15 @@
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.AssemblyInfo.cs
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.sourcelink.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\bin\Debug\net10.0\temperatura.exe
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\bin\Debug\net10.0\temperatura.deps.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\bin\Debug\net10.0\temperatura.runtimeconfig.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\bin\Debug\net10.0\temperatura.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\bin\Debug\net10.0\temperatura.pdb
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\refint\temperatura.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.pdb
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\temperatura.genruntimeconfig.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\temperatura\obj\Debug\net10.0\ref\temperatura.dll
