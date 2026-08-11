@@ -1,0 +1,15 @@
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\bin\Debug\net10.0\intervalo.exe
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\bin\Debug\net10.0\intervalo.deps.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\bin\Debug\net10.0\intervalo.runtimeconfig.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\bin\Debug\net10.0\intervalo.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\bin\Debug\net10.0\intervalo.pdb
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.AssemblyInfoInputs.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.AssemblyInfo.cs
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.csproj.CoreCompileInputs.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.sourcelink.json
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\refint\intervalo.dll
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.pdb
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\intervalo.genruntimeconfig.cache
+C:\Users\akira\Desktop\Exerc c#\Estudo-c-\Part2\exerc2\intervalo\obj\Debug\net10.0\ref\intervalo.dll
